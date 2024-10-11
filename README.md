@@ -14,10 +14,7 @@ Zaudēšanas nosacījumi - spēlētajs neuzminēja pareizos burtus, lai iegūtu 
 
 Komponentes
 
-Vārdu saraksts, izvēle -
-Informācijas ievade - 
-Spēles attēlojums (stāvoklis) - 
-Spēles darbības (plūsma) -
-Spēles beigas - 
+Vārdu saraksts, izvēle -"Riga", "Talinn", "Vilnius", "Warsaw", "Berlin", "Zagreb", "Brussels", "Andorra", "Vatican City", "Sarajevo","chicken", "bread", "milk", "tomato", "grapes", "eggs", "cheese", "peanut butter and jam sandwich", "apple", "carrot","cat", "butterfly", "guinea Pig", "tarantula", "dog", "shark", "lobster", "narwhal", "manatee", "seahorse"
+
 
 ""
